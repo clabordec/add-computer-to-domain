@@ -1,6 +1,7 @@
 <p align="center">
-<img src="https://i.imgur.com/pU5A58S.png" alt="Microsoft Active Directory Logo"/>
+<img src="https://github.com/user-attachments/assets/8c92255a-3c4f-4fe6-99f8-d0a7efc8f9b0" alt="Microsoft Active Directory Logo"/>
 </p>
+
 
 <h1>Adding a computer to the Domain Controller</h1>
 This project outlines the steps on how to add a computer to the Domain Controller<br />
