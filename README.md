@@ -16,6 +16,7 @@ This project outlines the steps on how to add a computer to the Domain Controlle
 <h2>Operating Systems Used </h2>
 
 - Windows Server 2022
+- Windows 10 Pro
 
 <h2>High-Level Deployment and Configuration Steps</h2>
 
