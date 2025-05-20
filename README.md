@@ -11,6 +11,7 @@ This project outlines the steps on how to add a computer to the Domain Controlle
 
 - VMware Workstation Pro (Virtual Machines/Compute)
 - Active Directory Domain Services
+- Remote Desktop Connection
 
 <h2>Operating Systems Used </h2>
 
